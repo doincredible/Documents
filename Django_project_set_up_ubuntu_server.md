@@ -234,3 +234,5 @@ OR
 sudo apt install postgresql-server-dev-all
 ```
 as well before installing psycopg2 again.
+
+
